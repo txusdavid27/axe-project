@@ -1,0 +1,30 @@
+# Cypress folders and files
+cypress/screenshots/
+cypress/videos/
+
+# Cypress config files
+cypress.json
+cypress.env.json
+
+# npm packages
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Optional lock file
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
